@@ -1,6 +1,9 @@
 # Softwares Download URLs
 
 ## A
+ADB ( https://developer.android.com/studio/releases/platform-tools )  <br/>
+Desc : Adb Shell ( https://github.com/MobileHacks/ADB-Shell/blob/master/ADB.md )  <br/>
+       Android Debug Bridge [adb] ( https://developer.android.com/studio/command-line/adb)  <br/>
 Android Studio IDE ( https://developer.android.com/studio ) <br/>
 Arduino IDE        ( https://www.arduino.cc/en/Main/Software ) <br/>
 AudioRelay         ( https://audiorelay.net/ ) <br/>
