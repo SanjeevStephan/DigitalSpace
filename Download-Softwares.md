@@ -5,7 +5,7 @@ Android Studio IDE ( https://developer.android.com/studio ) <br/>
 Arduino IDE        ( https://www.arduino.cc/en/Main/Software ) <br/>
 
 ## D
-Dell Vostro 3459 Drivers ( https://www.dell.com/support/home/en-in/product-support/product/vostro-14-3459-laptop/drivers ) <br/>
+Dell Vostro 3459 Drivers ( https://www.dell.com/support/home/en-in/product-support/product/vostro-14-3459-laptop/drivers)<br/>
 
 ## Q
 CodeTwo QR Code Desktop Reader & Generator ( https://www.codetwo.com/freeware/qr-code-desktop-reader-thanks ) <br/>
