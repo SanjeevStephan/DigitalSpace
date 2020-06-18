@@ -1,12 +1,12 @@
 # Softwares Download URLs
 
 ## A
-ADB ( https://developer.android.com/studio/releases/platform-tools )  <br/>
+<a href="https://developer.android.com/studio/releases/platform-tools">ADB</a> (  )  <br/>
 Desc : Adb Shell ( https://github.com/MobileHacks/ADB-Shell/blob/master/ADB.md )  <br/>
        Android Debug Bridge [adb] ( https://developer.android.com/studio/command-line/adb)  <br/>
-Android Studio IDE ( https://developer.android.com/studio ) <br/>
-Arduino IDE        ( https://www.arduino.cc/en/Main/Software ) <br/>
-AudioRelay         ( https://audiorelay.net/ ) <br/>
+<a href="https://developer.android.com/studio">Android Studio IDE</a> (  ) <br/>
+<a href="https://www.arduino.cc/en/Main/Software">Arduino IDE </a>       (  ) <br/>
+<a href="https://audiorelay.net/">AudioRelay</a>         (  ) <br/>
   Description : Send audio from your PC to your phone, wirelessly  in realtime  <br/>
 
 ## D
