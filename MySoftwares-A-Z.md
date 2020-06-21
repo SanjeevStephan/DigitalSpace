@@ -115,6 +115,15 @@
 * <a href="https://rufus.ie/">Rufus</a>
 
       Rufus is a utility that helps format and create bootable USB flash drives
+* <a href="http://fubabafumama.blogspot.com/">Richdad Cashflow Game</a> 
+<a href="https://drive.google.com/u/0/uc?id=0B9gbpS9t0Z1GV2tPN2h1S3dHeW8&export=download">Download from Google drive</a>
+
+     Cashflow 101 is an educational tool in board game format designed 
+     by Robert Kiyosaki (author of Rich Dad, Poor Dad), 
+     which aims to teach the players concepts of investing by having 
+     their money work for them in a risk free setting (play money) 
+     while simultaneously increasing their financial literacy and 
+     stressing the imperative nature of accountability.
 
 ## S
 * <a href="https://github.com/Genymobile/scrcpy">Scrcpy</a>
@@ -122,11 +131,16 @@
       This application provides display and control of Android devices connected on USB (or over TCP/IP)
 * <a href="https://www.splashtop.com/downloads">Splashtop Remote Access</a>
 * <a href="https://www.thepiratecity.net/softwares/sketchup-crack/">SketchUp Pro</a>
-* <a href="https://www.skype.com/en/get-skype/">Skype</a>
+* <a href="https://www.skype.com/en/get-skype/">SHAREit</a>
 
       Skype is a telecommunications application that specializes
       in providing video chat and voice calls between computers,
       tablets, mobile devices,and smartwatches over the Internet.
+* <a href="https://www.filehorse.com/download-shareit-for-windows/">Skype</a>    
+  
+      SHAREit for Windows is a free application that lets you send your content 
+      at lightning speed between devices including: photos, videos, music, documents, and folders. 
+      Transfer gigabytes of files from PC to PC in minutes, without cables,
 
 ## T
 * <a href="https://www.teamviewer.com/en/">TeamViewer The Remote Desktop Software</a>
@@ -138,6 +152,14 @@
       With TightVNC, you can see the desktop of a remote machine and
       control it with your local mouse and keyboard,
       just like you would do it sitting in the front of that computer.
+* <a href="https://www.filehorse.com/download-typing-master/">Typing Master </a>
+
+      Typing Master is a complete free typing tutor for Windows PC! 
+      Typing Master is a free touch typing course that adapts to your unique needs
+* <a href="https://free-tshirt-maker.software.informer.com/1.0/">Tshirt Maker</a>
+
+      Free Tshirt Maker is an image editor created for people who wish to 
+      design t-shirt models directly from their Windows PCs. 
 ## U
 * <a href="https://unity3d.com/get-unity/download">Unity</a>
 
