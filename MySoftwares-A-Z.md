@@ -83,6 +83,12 @@
 
       Launch4J is a powerful and reliable solution to 
       convert your Java JAR files into Windows-native EXE executables.
+* <a href="https://www.liquid-technologies.com/trial-download">Liquid Technologies</a>
+ ![liquid technologies](https://www.liquid-technologies.com/Content/images/liquid-logo.png)     
+      
+      Liquid Studio providing leading edge productivity tools for XML software developers conforming to the W3C standards. 
+      Initially developed as the world leading XML Data Binding application for generating C++, C#, Java, VB.Net and
+      Visual Basic 6 code from XML Schema, which is now part of Liquid XML product suite
 ## M
 * <a href="">Mozilla Firefox</a>
 * <a href="https://dev.mysql.com/downloads/mysql/">MySQL Community Server 8.0.20</a>
