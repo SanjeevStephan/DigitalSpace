@@ -75,7 +75,7 @@
 ## Q
 * <a href="https://www.codetwo.com/freeware/qr-code-desktop-reader-thanks">CodeTwo QR Code Desktop Reader & Generator</a>
 * <a href="https://play.google.com/store/apps/details?id=com.gamma.scan&hl=en_IN">QR & Barcode Scanner App</a>
-* <a href="">Quick-Heal-Antivirus</>
+* <a href="https://www.filehorse.com/download-quick-heal-antivirus-pro-64/">Quick-Heal-Antivirus</>
 
 
 ## R
@@ -89,15 +89,19 @@
       This application provides display and control of Android devices connected on USB (or over TCP/IP)
 * <a href="https://www.splashtop.com/downloads">Splashtop Remote Access</a>
 * <a href="https://www.thepiratecity.net/softwares/sketchup-crack/">SketchUp Pro</a>
-* <a href="">Skype</a>
+* <a href="https://www.skype.com/en/get-skype/">Skype</a>
 
 ## T
 * <a href="https://www.teamviewer.com/en/">TeamViewer The Remote Desktop Software</a>
-* <a href="">Telegram</a>
+* <a href="https://desktop.telegram.org/">Telegram</a>
 * <a href="https://www.torproject.org/">Tor Browser - Browse Privately.Explore Freely.</a>
-* <a href="">TightVNC</a>
+* <a href="https://www.tightvnc.com/download.php">TightVNC</a>
+      
+      TightVNC is a free remote control software package. With TightVNC, you can see the desktop of a remote machine and control it with your local mouse and keyboard, just like you would do it sitting in the front of that computer.
 ## U
-* <a href="">Unity</a>
+* <a href="https://unity3d.com/get-unity/download">Unity</a>
+
+      Unity real-time development platform. Create 3D, 2D VR & AR visualizations for Games, Auto, Transportation, Film, Animation, ...
 ## V
 * <a href="">VLC Player ( https://www.videolan.org/index.html</a>
 
@@ -108,5 +112,7 @@
 ## X
 
 ## Y
+
+<a href="https://www.filehorse.com/"><img src="https://static.filehorse.com/img/logo.png"></img></a>
 
 ## Z
