@@ -89,8 +89,25 @@
 * <a href="https://ems-mysql-manager-lite.software.informer.com/5.1/">EMS SQL Manager Lite for MySQL</a>
 
       EMS SQL Manager Lite for MySQL is an excellent freeware graphical tool for MySQL Server administration. 
+* <a href="https://www.filehorse.com/download-mobogenie/">Mobogenie</a>
+          
+      Mobogenie is the personal manager of your mobile phone. 
+      Data transfer and management has never been this easy with Mobogenie. 
+      With the tool, all the apps, contacts, SMS, music and other data in your smartphone 
+      can be easily transferred between Windows PC, your phone, and even the online world.
+* <a href="https://appinventor.mit.edu/explore/ai2/windows.html"> MIT Appinventor Tools</a>   
+![mit app inventor img](https://appinventor.mit.edu/images/logo.png)        
+   
+      MIT App Inventor is an intuitive, visual programming environment that allows everyone – 
+      even children – to build fully functional apps for smartphones and tablets.
+      The MIT App Inventor project seeks to democratize software development by 
+      empowering all people, especially young people, to move from technology consumption to technology creation.
+
 ## N
 * <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a>
+     
+      Notepad++ is a free source code editor and Notepad replacement that supports several languages. 
+      Running in the MS Windows environment, its use is governed by GPL License
 * <a href="https://www.naturalreaders.com/software.html">NaturalReader</a>
 
       NaturalReader is a downloadable text-to-speech desktop software for personal use. 
@@ -100,14 +117,23 @@
 
       What is NEST Trader?
       NEST trader is a Upstox trading software where orders are placed for buying/selling of listed shares on the exchange. 
-## O
-* <a href="https://obsproject.com/">OBS Studio</a> 
-
-      Open Broadcaster Software
 * <a href="https://www.opera.com/hi/download">NaturalReader </a>
 
       Get a faster, better browser. Opera's free VPN, Ad Blocker, 
       integrated messengers and private mode help you browse securely and smoothly.
+* <a href="https://www.filehorse.com/download-nero-free/screenshots/">Nero Free 9.4.12.3</a>  
+
+      Nero Free is a perfect CD or DVD burning utility for users who just want to quickly and 
+      effortlessly transfer their data from local storage on discs, without the need to interact
+      with many advanced tools and side applications offered by the full Nero suite.
+ 
+## O
+* <a href="https://obsproject.com/">OBS Studio</a> 
+
+      Open Broadcaster Software
+* <a href="https://www.openshot.org/download/">OpenShot </a> 
+
+      OpenShot is an award-winning free and open-source video editor for Linux, Mac, and Windows.
 ## P
 * <a href="http://pdanet.co/install/">PdaNet+</a>
 * <a href="https://pypi.org/project/py2exe/">py2exe</a>
@@ -221,6 +247,15 @@
 * <a href="https://www.microsoft.com/en-us/download/details.aspx?id=56485">Windows USB/DVD Download Tool</a>  
 
       Tool to create a copy of an ISO onto a USB or DVD.
+      
+* <a href="https://www.microsoft.com/en-us/download/details.aspx?id=56485">WiFi Mouse</a>  
+
+      Transform your phone into a wireless mouse, keyboard, remote desktop,
+      trackpad and more. Download this app for iOS and Andriod
+
+Features
+Download
+
 ## X
 * <a href="https://www.apachefriends.org/index.html">XAMPP </a>
 
