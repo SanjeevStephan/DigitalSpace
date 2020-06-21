@@ -29,7 +29,7 @@
 * <a href="">title</a>
 
 ## C
-* <a href="">title</a>Chrome</a> 
+* <a href="">Chrome</a> 
 * <a href="">Connectify Hotspot 2018</a>
 ## D
 * <a href="">DAZStudio </a>
@@ -101,7 +101,7 @@
 ## V
 * <a href="">VLC Player ( https://www.videolan.org/index.html</a>
 
-## w
+## ![img](https://a1automate.com.au/wp-content/uploads/2018/04/YouTube-icon-small.png )w
 * <a href="https://www.whatsapp.com/download">WhatsApp Desktop messager</a>
 * <a href="https://web.whatsapp.com/">Whatsapp web</a>
        
