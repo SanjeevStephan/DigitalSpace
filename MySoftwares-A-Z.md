@@ -23,13 +23,17 @@
 * <a href="">title</a>
 
 ## B 
-* <a href="">Blender 2.8</a>
+* <a href="https://www.blender.org/download/">Blender 2.8</a>
+
+      Blender is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, and computer games.
 
 * <a href="">title</a>
 * <a href="">title</a>
 
 ## C
-* <a href="">Chrome</a> 
+* <a href="https://www.google.com/chrome/">Chrome</a> 
+     
+          Google Chrome is a cross-platform web browser developed by Google.
 * <a href="">Connectify Hotspot 2018</a>
 ## D
 * <a href="">DAZStudio </a>
@@ -46,7 +50,9 @@
 * <a href="https://www.freescreenrecording.com/">Free Screen Recorder</a>
 
 ## G
-* <a href="">gary undeleted</a>
+* <a href="https://www.glarysoft.com/glary-undelete/">gary undeleted</a>
+
+      Glary Undelete is a free, simple but powerful free data recovery tool to help users undelete files and restore deleted files or lost files.
 ## H
 
 ## I
@@ -67,7 +73,9 @@
 * <a href="https://obsproject.com/">OBS Studio</a> 
 
       Open Broadcaster Software
-* <a href="">Opera Browser</a>
+* <a href="https://www.opera.com/hi/download">Opera Browser</a>
+
+      Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you browse securely and smoothly.
 ## P
 * <a href="http://pdanet.co/install/">PdaNet+</a>
 * <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community</a>
@@ -90,6 +98,8 @@
 * <a href="https://www.splashtop.com/downloads">Splashtop Remote Access</a>
 * <a href="https://www.thepiratecity.net/softwares/sketchup-crack/">SketchUp Pro</a>
 * <a href="https://www.skype.com/en/get-skype/">Skype</a>
+
+      Skype is a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices,and smartwatches over the Internet.
 
 ## T
 * <a href="https://www.teamviewer.com/en/">TeamViewer The Remote Desktop Software</a>
