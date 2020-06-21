@@ -4,7 +4,9 @@
 * <a href="https://developer.android.com/studio/releases/platform-tools">ADB</a>
 * <a href="https://github.com/MobileHacks/ADB-Shell/blob/master/ADB.md">Adb Shell Github</a>
 * <a href="https://developer.android.com/studio/command-line/adb">Adb - developer.android.com </a>
-* <a href="">Adobe Reader</a>
+* <a href="https://get.adobe.com/reader/enterprise/">Adobe Reader</a>
+     
+      It's the only PDF viewer that can open and interact with all types of PDF content, including forms and multimedia
 * <a href="https://developer.android.com/studio">Android Studio IDE</a>
 * <a href="https://www.arduino.cc/en/Main/Software">Arduino IDE </a>
 * <a href="https://audiorelay.net/">AudioRelay</a>
@@ -35,8 +37,11 @@
 * <a href="https://bat-to-exe-converter.en.uptodown.com/windows">Bat To Exe Converter</a>
 
       Bat To Exe Converter is a simple tool that lets you turn a batch file, also known as Bat file, into an executable file.
-* <a href="">title</a>
+* <a href="https://bitnami.com/stacks">Bitnami Stack Installers.</a>
 
+      Bitnami makes it easy to get your favorite open source software up and running on any platform, 
+      including your laptop and all the major clouds.
+      With More than 150 applications, servers and language runtimes packaged for your favorite platforms.
 ## C
 * <a href="https://www.google.com/chrome/">Chrome</a> 
      
