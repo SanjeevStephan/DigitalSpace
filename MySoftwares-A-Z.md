@@ -85,6 +85,10 @@
       convert your Java JAR files into Windows-native EXE executables.
 ## M
 * <a href="">Mozilla Firefox</a>
+* <a href="https://dev.mysql.com/downloads/mysql/">MySQL Community Server 8.0.20</a>
+* <a href="https://ems-mysql-manager-lite.software.informer.com/5.1/">EMS SQL Manager Lite for MySQL</a>
+
+      EMS SQL Manager Lite for MySQL is an excellent freeware graphical tool for MySQL Server administration. 
 ## N
 * <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a>
 * <a href="https://www.naturalreaders.com/software.html">NaturalReader</a>
@@ -92,6 +96,10 @@
       NaturalReader is a downloadable text-to-speech desktop software for personal use. 
       This easy-to-use software with natural-sounding voices can read to you any text 
       such as Microsoft Word files, webpages, PDF files, and E-mails.
+* <a href="https://upstox.com/knowledge-base/how-to-download-and-install-nest/">NEST Trader Platform.</a>   
+
+      What is NEST Trader?
+      NEST trader is a Upstox trading software where orders are placed for buying/selling of listed shares on the exchange. 
 ## O
 * <a href="https://obsproject.com/">OBS Studio</a> 
 
@@ -110,7 +118,7 @@
       It can build console executables, windows (GUI) executables,
       windows services, and DLL/EXE COM servers.
 
-* <a href="https://www.python.org/downloads/">Python Installers /a>
+* <a href="https://www.python.org/downloads/">Python Installers </a>
           
       Python is an interpreted, high-level, general-purpose programming language. 
       Created by Guido van Rossum and first released in 1991, 
