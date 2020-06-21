@@ -143,8 +143,26 @@
 
       Unity real-time development platform.
       Create 3D, 2D VR & AR visualizations for Games, Auto, Transportation, Film, Animation, ...
+* <a href="https://www.techspot.com/downloads/6153-universal-usb-installer.html">Universal USB Installer 1.9.9.0</a>
+
+      Simply choose a Live Linux Distribution, the ISO file, your Flash Drive and,
+      Click Install. Upon completion, you should have a ready to run 
+      bootable USB Flash Drive with your select operating system installed.
+
+* <a href="https://ummydownloader.com/">Ummy YouTube Video Downloader </a>
+
+      A great choice for downloading YouTube videos and saving them on your PC.
+
 ## V
-* <a href="">VLC Player ( https://www.videolan.org/index.html</a>
+* <a href="https://www.videolan.org/index.html">VLC Player</a>
+* <a href="https://vivo-mobile-assistant.en.lo4d.com/windows">VIVO Mobile Assistant</a>
+
+      Vivo Mobile Assistant is a desktop tool for Vivo devices
+      that allows you to manage contacts, messages and upgrade the latest firmware.
+      The program allows you to import, backup, add or delete contacts, edit and
+      customize your calendar with just a few clicks, and more.
+      Also, it can display memory usage, number of contacts, 
+      number of images, messages and applications or other information.
 
 ## w
 * <a href="https://www.whatsapp.com/download">WhatsApp Desktop messager</a>
