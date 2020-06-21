@@ -101,7 +101,7 @@
 ## V
 * <a href="">VLC Player ( https://www.videolan.org/index.html</a>
 
-## ![img](https://a1automate.com.au/wp-content/uploads/2018/04/YouTube-icon-small.png )w
+## w
 * <a href="https://www.whatsapp.com/download">WhatsApp Desktop messager</a>
 * <a href="https://web.whatsapp.com/">Whatsapp web</a>
        
