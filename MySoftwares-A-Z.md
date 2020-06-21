@@ -102,6 +102,20 @@
       integrated messengers and private mode help you browse securely and smoothly.
 ## P
 * <a href="http://pdanet.co/install/">PdaNet+</a>
+* <a href="https://pypi.org/project/py2exe/">py2exe</a>
+ 
+      py2exe is a distutils extension which allows to build 
+      standalone Windows executable programs (32-bit and 64-bit) from Python scripts; 
+      Python 3.3 and later are supported. 
+      It can build console executables, windows (GUI) executables,
+      windows services, and DLL/EXE COM servers.
+
+* <a href="https://www.python.org/downloads/">Python Installers /a>
+          
+      Python is an interpreted, high-level, general-purpose programming language. 
+      Created by Guido van Rossum and first released in 1991, 
+      Python's design philosophy emphasizes code readability 
+      with its notable use of significant whitespace.     
 * <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community</a>
 * <a href="http://pdanet.co/install/">PADockV3+</a>
 
