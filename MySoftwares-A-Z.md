@@ -67,7 +67,7 @@
       Glary Undelete is a free, simple but powerful free data recovery tool
       to help users undelete files and restore deleted files or lost files.
 ## H
-
+* <a href="https://www.httrack.com/page/2/">HTTrack Website Copier 3.49</a>
 ## I
 * <a href="http://www.iconconstructor.com/">Icon Constructor</a>
 
@@ -89,6 +89,11 @@
       Liquid Studio providing leading edge productivity tools for XML software developers conforming to the W3C standards. 
       Initially developed as the world leading XML Data Binding application for generating C++, C#, Java, VB.Net and
       Visual Basic 6 code from XML Schema, which is now part of Liquid XML product suite
+* <a href="https://lastpass.com/misc_download2.php">LastPass</a>
+![lastpass image](https://lastpass.com/images/logo-lastpass-2020.svg)     
+
+      LastPass for Mobile. Securely save passwords and automatically log into any site on the internet.
+ 
 ## M
 * <a href="">Mozilla Firefox</a>
 * <a href="https://dev.mysql.com/downloads/mysql/">MySQL Community Server 8.0.20</a>
