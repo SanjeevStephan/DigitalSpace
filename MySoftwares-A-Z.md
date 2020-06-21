@@ -89,7 +89,7 @@
       Liquid Studio providing leading edge productivity tools for XML software developers conforming to the W3C standards. 
       Initially developed as the world leading XML Data Binding application for generating C++, C#, Java, VB.Net and
       Visual Basic 6 code from XML Schema, which is now part of Liquid XML product suite
-* <a href="https://lastpass.com/misc_download2.php">LastPass</a>
+* <a href="https://lastpass.com/misc_download2.php">LastPass</a><br/>
 ![lastpass image](https://lastpass.com/images/logo-lastpass-2020.svg)     
 
       LastPass for Mobile. Securely save passwords and automatically log into any site on the internet.
