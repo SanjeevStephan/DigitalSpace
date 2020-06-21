@@ -116,7 +116,7 @@
 
       Rufus is a utility that helps format and create bootable USB flash drives
 * <a href="http://fubabafumama.blogspot.com/">Richdad Cashflow Game</a> 
-<a href="https://drive.google.com/u/0/uc?id=0B9gbpS9t0Z1GV2tPN2h1S3dHeW8&export=download">Download from Google drive</a>
+ <a href="https://drive.google.com/u/0/uc?id=0B9gbpS9t0Z1GV2tPN2h1S3dHeW8&export=download">Download from Google drive</a>
 
      Cashflow 101 is an educational tool in board game format designed 
      by Robert Kiyosaki (author of Rich Dad, Poor Dad), 
