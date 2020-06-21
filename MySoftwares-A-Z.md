@@ -28,9 +28,13 @@
 ## B 
 * <a href="https://www.blender.org/download/">Blender 2.8</a>
 
-      Blender is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, and computer games.
+      Blender is a free and open-source 3D computer graphics software toolset
+      used for creating animated films, visual effects, art, 3D printed models,
+      motion graphics, interactive 3D applications, and computer games.
 
-* <a href="">title</a>
+* <a href="https://bat-to-exe-converter.en.uptodown.com/windows">Bat To Exe Converter</a>
+
+      Bat To Exe Converter is a simple tool that lets you turn a batch file, also known as Bat file, into an executable file.
 * <a href="">title</a>
 
 ## C
@@ -65,36 +69,47 @@
 ## H
 
 ## I
+* <a href="http://www.iconconstructor.com/">Icon Constructor</a>
 
+      Icon Constructor converts images of any format into Windows icons. 
+      You can find many images on the Internet and convert them to icons
 ## J
 
 ## K
 * <a href="https://kotlinlang.org/docs/tutorials/getting-started.html">Kotlin IntelliJ IDEA</a>
 
 ## L
+* <a href="https://sourceforge.net/projects/launch4j/files/launch4j-3/3.8/">launch4j</a>
 
+      Launch4J is a powerful and reliable solution to 
+      convert your Java JAR files into Windows-native EXE executables.
 ## M
 * <a href="">Mozilla Firefox</a>
 ## N
 * <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a>
+* <a href="https://www.naturalreaders.com/software.html">NaturalReader</a>
 
+      NaturalReader is a downloadable text-to-speech desktop software for personal use. 
+      This easy-to-use software with natural-sounding voices can read to you any text 
+      such as Microsoft Word files, webpages, PDF files, and E-mails.
 ## O
 * <a href="https://obsproject.com/">OBS Studio</a> 
 
       Open Broadcaster Software
-* <a href="https://www.opera.com/hi/download">Opera Browser</a>
+* <a href="https://www.opera.com/hi/download">NaturalReader </a>
 
       Get a faster, better browser. Opera's free VPN, Ad Blocker, 
       integrated messengers and private mode help you browse securely and smoothly.
 ## P
 * <a href="http://pdanet.co/install/">PdaNet+</a>
 * <a href="https://www.jetbrains.com/pycharm/download/">PyCharm Community</a>
+* <a href="http://pdanet.co/install/">PADockV3+</a>
 
 ## Q
 * <a href="https://www.codetwo.com/freeware/qr-code-desktop-reader-thanks">CodeTwo QR Code Desktop Reader & Generator</a>
 * <a href="https://play.google.com/store/apps/details?id=com.gamma.scan&hl=en_IN">QR & Barcode Scanner App</a>
 * <a href="https://www.filehorse.com/download-quick-heal-antivirus-pro-64/">Quick-Heal-Antivirus</>
-
+* <a href="https://support.apple.com/downloads/quicktime">QuickTime 7 for Windows</>
 
 ## R
 * <a href="https://rufus.ie/">Rufus</a>
@@ -134,11 +149,24 @@
 ## w
 * <a href="https://www.whatsapp.com/download">WhatsApp Desktop messager</a>
 * <a href="https://web.whatsapp.com/">Whatsapp web</a>
-       
-## X
+* <a href="https://www.win-rar.com/download.html?&L=0">WinRAR </a>       
 
+      WinRAR is a data compression tool for Windows that focuses on RAR and ZIP files. 
+      It also supports CAB, ARJ, LZH, TAR, Gzip, UUE, ISO, BZIP2, Z and 7-Zip.
+* <a href="http://www.winiso.com/download.html">WinISO </a>     
+  
+      WinISO is a professional CD/DVD/Blu-ray image file utility tool which can edit, extract, burn, mount, convert ISO
+* <a href="https://www.microsoft.com/en-us/download/details.aspx?id=56485">Windows USB/DVD Download Tool</a>  
+
+      Tool to create a copy of an ISO onto a USB or DVD.
+## X
+* <a href="https://www.apachefriends.org/index.html">XAMPP </a>
+
+      XAMPP is a completely free, easy to install Apache distribution 
+      containing MariaDB, PHP, and Perl. 
+      The XAMPP open source package has been set up to be incredibly easy to install and to use.
 ## Y
 
-<a href="https://www.filehorse.com/"><img src="https://static.filehorse.com/img/logo.png"></img></a>
+* <a href="https://www.filehorse.com/"><img src="https://static.filehorse.com/img/logo.png"></img></a>
 
 ## Z
