@@ -33,11 +33,9 @@
 * <a href="https://play.google.com/store/apps/details?id=com.digilocker.android">DigiLocker</a>
 * <a href="https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android">DuckDuckGo</a>
 * <a href="https://apkpure.com/es-file-explorer/com.estrongs.android.pop">ES File Esplorer</a>
-* <a href="https://play.google.com/store/apps/details?id=com.et.reader.activities">	
-The Economic Times: Sensex, Market & Business News</a>
+* <a href="https://play.google.com/store/apps/details?id=com.et.reader.activities">The Economic Times: Sensex,Market & Business News</a>
 * <a href="https://play.google.com/store/apps/details?id=com.coolkit">eWeLink</a>
-* <a href="https://play.google.com/store/apps/details?id=io.enpass.app">	
-Enpass Password Manager</a>
+* <a href="https://play.google.com/store/apps/details?id=io.enpass.app">Enpass Password Manager</a>
 * <a href="https://firebase.google.com/">Firebase</a>
 * <a href="https://play.google.com/store/apps/details?id=com.flipkart.android">Flipkart</a>
 * <a href="https://play.google.com/store/apps/details?id=com.github.android">GitHub</a>
