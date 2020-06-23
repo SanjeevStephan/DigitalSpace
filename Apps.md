@@ -10,6 +10,11 @@
 * <a href="">Box</a>
 * <a href="">Calander</a>
 * <a href="">CamScanner</a>
+* <a href="https://play.google.com/store/apps/details?id=com.cuvora.carinfo">Carinfo</a>
+
+      Find vehicle owner information? 
+      Just enter vehicle number to get over a dozen vehicle registration
+      details including real owner name, age, registration date, insurance expiry, etc. 
 * <a href="">Chrome</a>
 * <a href="">Clean Master</a>
 * <a href="">Coinbase</a>
