@@ -33,15 +33,21 @@
 * <a href="https://play.google.com/store/apps/details?id=com.digilocker.android">DigiLocker</a>
 * <a href="https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android">DuckDuckGo</a>
 * <a href="https://apkpure.com/es-file-explorer/com.estrongs.android.pop">ES File Esplorer</a>
-* <a href="">ET</a>
+* <a href="https://play.google.com/store/apps/details?id=com.et.reader.activities">	
+The Economic Times: Sensex, Market & Business News</a>
 * <a href="https://play.google.com/store/apps/details?id=com.coolkit">eWeLink</a>
-* <a href="">https://play.google.com/store/apps/details?id=com.coolkitFamily Link</a>
-* <a href="">Firebase</a>
+* <a href="https://play.google.com/store/apps/details?id=io.enpass.app">	
+Enpass Password Manager</a>
+* <a href="">https://play.google.com/store/apps/details?id=com.coolkit">Family Link</a>
+* <a href="https://firebase.google.com/">Firebase</a>
 * <a href="https://play.google.com/store/apps/details?id=com.flipkart.android">Flipkart</a>
-* <a href="">GBoard</a>
 * <a href="https://play.google.com/store/apps/details?id=com.github.android">GitHub</a>
-* <a href="">Gmail</a>
-* <a href="">Google</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin">Gaana Music </a>
+## Google Services
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox">Google</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin">GBoard</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.gm">Gmail</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox">Google</a>
 * <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant">Google Assistant</a>
 * <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets">Google Sheets</a>
 * <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.translate">Google Traslate</a>
@@ -53,14 +59,15 @@
 * <a href="">Google Calander</a>
 * <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Authenticator</a>
 * <a href="">Google Maps</a>
-* <a href="">Google YouTube</a>
-* <a href="">Google YT Studio</a>
 * <a href="">Google </a>
 * <a href="">Google Photos</a>
 * <a href="">Google Opinion Rewards</a>
 * <a href="">Google Play</a>
 * <a href="">Google Play Music</a>
 * <a href="">Google Keep Notes</a>
+* <a href="">Google YouTube</a>
+* <a href="">Google YT Studio</a>
+# 
 * <a href="https://play.google.com/store/apps/details?id=com.zerodha.kite3">Zerodha Kite</a>
 * <a href="https://play.google.com/store/apps/details?id=com.facebook.lite">Facebook Lite</a>
 * <a href="https://play.google.com/store/apps/details?id=in.gov.uidai.mAadhaarPlus">mAadhar</a>
@@ -87,6 +94,7 @@
 * <a href="https://play.google.com/store/apps/details?id=com.unocoin.unocoinwallet">Unocoin</a>
 * <a href="https://apkpure.com/vidmate-downloader-hd-live-tv/com.nemo.vidmate">Vidmate</a>
 * <a href="https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader">Vuze</a>
+* <a href="https://play.google.com/store/apps/details?id=com.wrx.wazirx">WazirX</a>
 * <a href="https://play.google.com/store/apps/details?id=com.whatsapp">WhatsApp</a>
 * <a href="https://play.google.com/store/apps/details?id=com.sbi.lotusintouch">YONO SBI</a>
 * <a href="https://play.google.com/store/apps/details?id=zebpay.Application">Zebpay</a>
