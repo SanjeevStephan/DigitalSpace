@@ -13,6 +13,9 @@
 * <a href="">Chrome</a>
 * <a href="">Clean Master</a>
 * <a href="">Coinbase</a>
+* <a href="https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools">Codora</a>
+  
+      Powerful Barcode tools with tons of useful features.
 * <a href="">Contacts</a>
 * <a href="">DigiLocker</a>
 * <a href="">Docs</a>
