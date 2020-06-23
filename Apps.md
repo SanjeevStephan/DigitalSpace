@@ -38,7 +38,6 @@ The Economic Times: Sensex, Market & Business News</a>
 * <a href="https://play.google.com/store/apps/details?id=com.coolkit">eWeLink</a>
 * <a href="https://play.google.com/store/apps/details?id=io.enpass.app">	
 Enpass Password Manager</a>
-* <a href="">https://play.google.com/store/apps/details?id=com.coolkit">Family Link</a>
 * <a href="https://firebase.google.com/">Firebase</a>
 * <a href="https://play.google.com/store/apps/details?id=com.flipkart.android">Flipkart</a>
 * <a href="https://play.google.com/store/apps/details?id=com.github.android">GitHub</a>
@@ -53,20 +52,20 @@ Enpass Password Manager</a>
 * <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.translate">Google Traslate</a>
 * <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs">Google Docs</a>
 * <a href="https://play.google.com/store/apps/details?id=com.google.android.contacts">Google Contacts</a>
-* <a href="">Google Duo</a>
-* <a href="">Google Drive</a>
-* <a href="">Google Docs</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink">Google Family Link</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon">Google Duo</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs">Google Drive</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs">Google Docs</a>
 * <a href="">Google Calander</a>
 * <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Authenticator</a>
-* <a href="">Google Maps</a>
-* <a href="">Google </a>
-* <a href="">Google Photos</a>
-* <a href="">Google Opinion Rewards</a>
-* <a href="">Google Play</a>
-* <a href="">Google Play Music</a>
-* <a href="">Google Keep Notes</a>
-* <a href="">Google YouTube</a>
-* <a href="">Google YT Studio</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.maps">Google Maps</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.photos">Google Photos</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks">Google Opinion Rewards</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user">Google Pay</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.music">Google Play Music</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.keep">Google Keep Notes</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.youtube">Google YouTube</a>
+* <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator">Google YT Studio</a>
 # 
 * <a href="https://play.google.com/store/apps/details?id=com.zerodha.kite3">Zerodha Kite</a>
 * <a href="https://play.google.com/store/apps/details?id=com.facebook.lite">Facebook Lite</a>
