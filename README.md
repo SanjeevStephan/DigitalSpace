@@ -6,11 +6,13 @@
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Online-Websites.md">More Online Website</a>
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Website-for-Downloads.md">More Download Sources</a>
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Google-Links.md">All Google Services</a>
-# Trading
-### Getting Started with Trading
+
+### Top Links
   * <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">Top Youtube Channels</a>
   * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Trading-Platforms.md">Top Trading Platforms</a>
-### Already Started Trading 
+  * <a href="https://drive.google.com/drive/folders/1N1FAECgBaZPfJQVmIdMZ32Sc03BgLIdW?usp=sharing">Top Free EBooks for Everything</a>
+# Trading
+### Getting Started with Trading
 * <a href="https://docs.google.com/document/d/163hkjHHyAXQzUFy6H_UUp5eTPjWmS6T1FB2JJuFq_DU/edit?usp=sharing">Best Time to Trade</a>  
 * <a href="https://docs.google.com/document/d/1kc2bUseHM10C9Mx2Z-gHmP17j92VUsXtKS6FPRDAiR0/edit?usp=sharing">Rules for Stock Selection</a>
 * <a href="https://docs.google.com/document/d/1STXKFZ4RTY6mIrIoPPwCadmFIB2WuLVQSfdtsPigylY/edit?usp=sharing">Trading Plan Guide</a>
