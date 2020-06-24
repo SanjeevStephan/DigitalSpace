@@ -7,7 +7,7 @@
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Website-for-Downloads.md">More Download Sources</a>
 # Trading
 ### Getting Started with Trading
-  * <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">Youtubers</a>
+  * <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">Top Youtube Channels</a>
   * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Trading-Platforms.md">Top Trading Platforms</a>
 ### Already Started Trading 
 * <a href="https://docs.google.com/document/d/163hkjHHyAXQzUFy6H_UUp5eTPjWmS6T1FB2JJuFq_DU/edit?usp=sharing">Best Time to Trade</a>  
