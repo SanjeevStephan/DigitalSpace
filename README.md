@@ -5,11 +5,11 @@
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Softwares-A-Z.md">Softwares A-Z</a>
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Website-for-Downloads.md">More Download Sources</a>
 ## Google
-### Google Excels
-* <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">Youtubers</a>
-* <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/MyBitcoin-Address.md">Recents Visited Links</a>
-### Google Docs
-* <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Online-Websites.md">Online Website</a>
-* <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/MyBitcoin-Address.md">Bitcoin Addresses</a>
-* <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Trading-Platforms.md">Top Trading Platforms</a>
+* Google Excels
+  * <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">Youtubers</a>
+  * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/MyBitcoin-Address.md">Recents Visited Links</a>
+* Google Docs
+  * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Online-Websites.md">Online Website</a>
+  * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/MyBitcoin-Address.md">Bitcoin Addresses</a>
+  * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Trading-Platforms.md">Top Trading Platforms</a>
 
