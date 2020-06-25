@@ -24,7 +24,7 @@
 * <a href="https://docs.google.com/spreadsheets/d/191gXOHCBMKwiu4aadAqXVDjPOVWmEIZLMOcAl7wlQhw/edit?usp=sharing">MyTrade Plan</a>
 * <a href="https://docs.google.com/spreadsheets/d/1OmdbG3-OWwYQFhlYSlQQM1EodhKV3NR5vKMgHuW19UU/edit?usp=sharing">My Market Watchlist</a>
 * <a href="https://docs.google.com/spreadsheets/d/1sp9XdrGcD3y2up0U6DduMEBhLIE2gtjEFhGsweyPij8/edit?usp=sharing">Stocks for Tommorow</a>
-* <a href=""></a>
+* <a href="https://drive.google.com/drive/folders/16O54lmssjctwQqMhD2DTzlIljJm8wBVK?usp=sharing">My Notes</a>
 * <a href=""></a>
 ## My Links 
 * <a href="https://docs.google.com/spreadsheets/d/1FIaW7rqt42OVqwXFJeC5P2o93Mk_N72pfUfbQhHU3UU/edit?usp=sharing">Recents Visited Links</a>
