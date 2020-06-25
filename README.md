@@ -39,7 +39,8 @@
 * <a href="https://twitter.com/sanjeevstephan">Twitter</a>
 * <a href="http://telegram.me/mrsanjeevstephan">Telegram</a>
 * <a href="https://api.whatsapp.com/send?phone=916201432196">WhatsApp</a>
-
+* <a href="https://api.whatsapp.com/send?phone=916201432196">Zoom</a>
+* <a href="https://zerodha.com/open-account?c=QJ2734">Zerodha</a>
 
 
 
