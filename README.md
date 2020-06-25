@@ -51,6 +51,11 @@
         <a href="https://phon.pe/700pgk6i">Click here & install PhonePe</a>
    * <a href="https://zerodha.com/open-account?c=QJ2734">Zerodha</a>
    
+         India's biggest stock broker offering the lowest, 
+         cheapest brokerage rates for futures and options, 
+         commodity trading, equity and mutual funds.
+        <a href="https://zerodha.com/open-account?c=QJ2734">Open a trading and Demat account online instantly</a> 
+   
     You can also show your support by paying for our coffee
    * <a href="https://www.paypal.me/9661269211">PayPal</a> 
    * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/MyBitcoin-Address.md">Bitcoin Addresses</a>
