@@ -1,15 +1,38 @@
-# Top Websites
-## Beginners
-* <a href="https://www.tradingsetupsreview.com/">Trading Setups Review</>
-* <a href="https://www.tradingwithrayner.com/category/blog/">tradingwithrayner</>
-* <a href=""></>
-* <a href=""></>
-* <a href=""></>
-* <a href=""></>
-  
+# Top Websites to learn
+## Top Links to consider 
+* <a href="https://www.tradingsetupsreview.com/10-resources-learning-price-action-trading/"></a>
+* <a href="https://www.tradingsetupsreview.com/top-10-price-action-trading-books/">TOP 10 PRICE ACTION TRADING BOOKS</a>
+* <a href=""></a>
+* <a href=""></a>
 
 
+## Price Actions
+* <a href="https://priceaction.com/price-action-university/beginners/what-is-price-action/">PriceAction.com</a>
+* <a href="https://www.tradingsetupsreview.com/">TradingSetupsReview</a>
+* <a href="https://www.tradingwithrayner.com/category/blog/">Tradingwithrayner</a>
+* <a href="https://www.tradeciety.com/category/price-action/">Tradeciety </a>
+* <a href=""></a>
+* <a href=""></a>
+## Candlestick Patterns
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
 
+# Top Youtube Channels
+* <a href=""></a>
+* <a href=""></a>
+* <a href="https://www.youtube.com/channel/UC9qrrcSPGThjS_YfuX_RGag">Tradeciety</a>
+* <a href="https://www.youtube.com/user/PATsTrading/videos">PATsTrading</a>
+* <a href="https://www.youtube.com/channel/UCFSn-h8wTnhpKJMteN76Abg">Rayner Teo</a>
+* <a href="https://www.youtube.com/channel/UCDHtuWu3DPZTh5qslLgZfKQ">Stock Market Hacks</a>
+* <a href="https://www.youtube.com/channel/UCwAR5SElzS5RkZxVGvEnr0Q">Tech & Finance</a>
+## Trading Mentors
+* <a href="https://www.youtube.com/channel/UCtlAFoYl2aWb6pMiHCctQHA">Ricky Gutierrez</a>
+* <a href="https://www.youtube.com/channel/UCoSG43KFjTe0trsteSQ46Ng">Timothy Sykes</a>
+* <a href="https://www.youtube.com/channel/UCQO8KW89UmUxltx8pQPrDRQ">Steven Dux</a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
 
 
 # My Google Drive Links | Use it Wisely
