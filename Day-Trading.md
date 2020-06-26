@@ -7,12 +7,18 @@
 
 
 ## Price Actions
+* <a href="https://en.wikipedia.org/wiki/Price_action_trading">Price action trading From Wikipedia<a/>
 * <a href="https://priceaction.com/price-action-university/beginners/what-is-price-action/">PriceAction.com</a>
 * <a href="https://www.tradingsetupsreview.com/">TradingSetupsReview</a>
 * <a href="https://www.tradingwithrayner.com/category/blog/">Tradingwithrayner</a>
 * <a href="https://www.tradeciety.com/category/price-action/">Tradeciety </a>
-* <a href=""></a>
-* <a href=""></a>
+* <a href="https://www.learntotradethemarket.com/price-action-trading-forex">learntotradethemarket</a>
+* <a href="https://www.forex4noobs.com/forex-trading-strategy/">The Story of Price from forex4noobs.com</a>
+* <a href="https://dailypriceaction.com/blog/">DailyPriceAction</a>
+* <a href="https://yourtradingcoach.com/">yourtradingcoach</a>
+* <a href="https://www.forexschoolonline.com/">forexschoolonline</a>
+  
+
 ## Candlestick Patterns
 * <a href=""></a>
 * <a href=""></a>
