@@ -16,6 +16,7 @@
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading.md">Getting Started with Trading Stocks</a>  
 * <a href="https://drive.google.com/drive/folders/1N1FAECgBaZPfJQVmIdMZ32Sc03BgLIdW?usp=sharin">EBooks to learn trading.</a> 
 ## My Online Presence 
+![public space](https://github.com/SanjeevStephan/Linux/blob/master/102-Kali-Linux-on-Window/figlet-images/figlet-univers-sanjeev-stephan.png)
 ### Follow Us On
 * <a href="https://www.facebook.com/mrsanjevstephan">Facebook</a>
 * <a href="https://github.com/SanjeevStephan">GitHub</a>
@@ -46,4 +47,4 @@
     You can also show your support by paying for our coffee
    * <a href="https://www.paypal.me/9661269211">PayPal</a> 
    * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/MyBitcoin-Address.md">Bitcoin Addresses</a>
-![public space](https://github.com/SanjeevStephan/Linux/blob/master/102-Kali-Linux-on-Window/figlet-images/figlet-univers-sanjeev-stephan.png)
+
