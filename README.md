@@ -14,7 +14,7 @@
   * <a href="https://drive.google.com/drive/folders/1N1FAECgBaZPfJQVmIdMZ32Sc03BgLIdW?usp=sharing">Top Free EBooks for Everything</a>
 # Trading
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading.md">Getting Started with Trading Stocks</a>  
-
+* <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading.md">EBooks to learn trading.</a> 
 ## My Online Presence 
 ### Follow Us On
 * <a href="https://www.facebook.com/mrsanjevstephan">Facebook</a>
