@@ -17,6 +17,7 @@
 * <a href="https://dailypriceaction.com/blog/">DailyPriceAction</a>
 * <a href="https://yourtradingcoach.com/">yourtradingcoach</a>
 * <a href="https://www.forexschoolonline.com/">forexschoolonline</a>
+* <a href="https://forextradingstrategies4u.com/category/price-action-forex-trading-strategies/">forextradingstrategies4u</a>
   
 
 ## Candlestick Patterns
