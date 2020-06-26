@@ -14,7 +14,7 @@
   * <a href="https://drive.google.com/drive/folders/1N1FAECgBaZPfJQVmIdMZ32Sc03BgLIdW?usp=sharing">Top Free EBooks for Everything</a>
 # Trading
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading.md">Getting Started with Trading Stocks</a>  
-* <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading.md">EBooks to learn trading.</a> 
+* <a href="https://drive.google.com/drive/folders/1N1FAECgBaZPfJQVmIdMZ32Sc03BgLIdW?usp=sharin">EBooks to learn trading.</a> 
 ## My Online Presence 
 ### Follow Us On
 * <a href="https://www.facebook.com/mrsanjevstephan">Facebook</a>
@@ -23,8 +23,9 @@
 * <a href="www.pinterest.com/SanjeevStephan">Pinterest</a>
 * <a href="https://twitter.com/sanjeevstephan">Twitter</a>
 * <a href="http://telegram.me/mrsanjeevstephan">Telegram</a>
+* <a href="https://www.tradingview.com/u/SanjeevStephan/">TradingView</a>
 * <a href="https://api.whatsapp.com/send?phone=916201432196">WhatsApp</a>
-* <a href="https://api.whatsapp.com/send?phone=916201432196">Zoom</a>
+
 
 ### Support our work 
  
