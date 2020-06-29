@@ -9,3 +9,10 @@
     
     Ebook : Technical Analysis Explained, Fifth Edition: The Successful Investor's Guide to Spotting Investment
     Author : Martin J. Pring
+    
+<a href="https://drive.google.com/file/d/1SOGToCDHStKrR_fmcCkWiP4OfzyAJgCB/view?usp=sharing">
+<img src="https://images-na.ssl-images-amazon.com/images/I/51m4JJlfVgL._SX338_BO1,204,203,200_.jpg" width="100px" height="120px"/></a>
+
+    Ebook  : The Trading Book: A Complete Solution to Mastering Technical Systems and Trading Psychology
+    Author : Anne-Marie Baiynd
+    
