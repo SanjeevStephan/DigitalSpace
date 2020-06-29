@@ -27,6 +27,10 @@
 <a href="https://drive.google.com/file/d/1DJ6hQHVgZIZiIK-MqizbD4FtdBv_5kyQ/view?usp=sharing">
 <img src="https://images-na.ssl-images-amazon.com/images/I/411bwpBYF-L._SX330_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
 
+<!-- The Swing Trader Bible  -->
+<a href="https://drive.google.com/file/d/1dD-zquPD180p1N7H7P933Wsvl5ntMH6u/view?usp=sharing">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41JHWMiDRkL._SX331_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
+
 <!-- Technical Analysis simplified  -->
 <a href="">
 <img src="https://images-na.ssl-images-amazon.com/images/I/41KWFMMRWQL._SX311_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
