@@ -14,6 +14,10 @@
 <a href="https://drive.google.com/file/d/1eXi1j0aD6NRbfDwrRubX52Ds8kDtielx/view?usp=sharing">
 <img src="https://images-na.ssl-images-amazon.com/images/I/61m16o5aq9L.jpg"  width="120px" height="150px"/> </a>
 
+<a href="https://drive.google.com/file/d/1OnRS6zUF5xunzGa4xOf9MehZxUjL8vfx/view?usp=sharing">
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347344862l/639247.jpg"  width="120px" height="150px"/> </a>
+
+
 # Ebooks 
 * <a href="https://drive.google.com/file/d/1g7YRILETP8Ju6YqbwXcH7xnAc-AXeq5d/view?usp=sharing">Technical Analysis and Chart Interpretations. A Comprehensive Guide </a>
     
