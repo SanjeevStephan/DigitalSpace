@@ -1,8 +1,7 @@
-# Top Websites to learn
+# Top Websites to learn | <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/README.md">Home</a>
 ## Top Links to consider 
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading/syllabus_technical_analysis.md">Syllabus for Technical Analysis</a>
-* <a href="https://www.tradingsetupsreview.com/10-resources-learning-price-action-trading/">10 RESOURCES FOR LEARNING PRICE ACTION TRADING</a>
-* <a href="https://www.tradingsetupsreview.com/top-10-price-action-trading-books/">TOP 10 PRICE ACTION TRADING BOOKS</a>
+* <a href="https://www.tradingsetupsreview.com/top-10-price-action-trading-books/">Top 10 Price Action Ebooks</a>
 * <a href=""></a>
 * <a href=""></a>
 
