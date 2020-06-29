@@ -10,6 +10,7 @@
 * <a href="https://en.wikipedia.org/wiki/Price_action_trading">Price action trading From Wikipedia<a/>
 * <a href="https://priceaction.com/price-action-university/beginners/what-is-price-action/">PriceAction.com</a>
 * <a href="https://www.tradingsetupsreview.com/">TradingSetupsReview</a>
+* <a href="https://dotnettutorials.net/course/trading-with-smart-money/">Dotnet Tutorial </a>
 * <a href="https://www.tradingwithrayner.com/category/blog/">Tradingwithrayner</a>
 * <a href="https://www.tradeciety.com/category/price-action/">Tradeciety </a>
 * <a href="https://www.learntotradethemarket.com/price-action-trading-forex">learntotradethemarket</a>
