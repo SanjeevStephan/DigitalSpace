@@ -31,8 +31,6 @@
 * <a href=""></a>
 
 # Top Youtube Channels
-* <a href=""></a>
-
 * <a href="https://www.youtube.com/channel/UC9qrrcSPGThjS_YfuX_RGag">Tradeciety</a>
 * <a href="https://www.youtube.com/user/PATsTrading/videos">PATsTrading</a>
 * <a href="https://www.youtube.com/channel/UCFSn-h8wTnhpKJMteN76Abg">Rayner Teo</a>
@@ -43,11 +41,10 @@
 * <a href="https://www.youtube.com/channel/UCtlAFoYl2aWb6pMiHCctQHA">Ricky Gutierrez</a>
 * <a href="https://www.youtube.com/channel/UCoSG43KFjTe0trsteSQ46Ng">Timothy Sykes</a>
 * <a href="https://www.youtube.com/channel/UCQO8KW89UmUxltx8pQPrDRQ">Steven Dux</a>
-* <a href=""></a>
 * <a href="https://www.youtube.com/channel/UC3tqH99vMHIuUYIsYY5yIcg">Pravin Khetan</a>
 * <a href=""></a>
-
-
+* <a href=""></a>
+* <a href=""></a>
 # My Google Drive Links | Use it Wisely
 ### Getting Started with Trading
 * <a href="https://docs.google.com/document/d/163hkjHHyAXQzUFy6H_UUp5eTPjWmS6T1FB2JJuFq_DU/edit?usp=sharing">Best Time to Trade</a>  
