@@ -1,4 +1,4 @@
-# Technical Analysis Syllabus | <a href="">Home</a> 
+# Technical Analysis Syllabus | <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading.md">Home</a> 
 ## Part I | The Foundation fo Technical Analysis
 * Why Techincal Analysis
 * The Language of Trading
