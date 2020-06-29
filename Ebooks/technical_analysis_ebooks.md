@@ -27,7 +27,7 @@
 <a href="https://drive.google.com/file/d/1lkrLPbvHt73UPJyxqcoKjYmhXNL7tmHQ/view?usp=sharing">
 <img src="https://images-na.ssl-images-amazon.com/images/I/41f3JJKZDsL._SX313_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
 <!-- Moving Averages 101  -->
-<a href="https://drive.google.com/file/d/1oI11Um5ffpWwYw7lQwbZrZASBrE_Ea50/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1cALjKQGk17EeG5qpgGzHItTnp5BnkX5T/view?usp=sharing">
 <img src="https://images-na.ssl-images-amazon.com/images/I/61tZ0+EV2YL.jpg"  width="120px" height="150px"/> </a>
 <!-- The Complete Breakout Trader  -->
 <a href="https://drive.google.com/file/d/1oI11Um5ffpWwYw7lQwbZrZASBrE_Ea50/view?usp=sharing">
