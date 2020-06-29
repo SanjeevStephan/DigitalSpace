@@ -44,7 +44,7 @@
 * <a href="https://www.youtube.com/channel/UC3tqH99vMHIuUYIsYY5yIcg">Pravin Khetan</a>
 * <a href=""></a>
 * <a href=""></a>
-* <a href=""></a>
+* <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">More Detailed Informations</a>
 # My Google Drive Links | Use it Wisely
 ### Getting Started with Trading
 * <a href="https://docs.google.com/document/d/163hkjHHyAXQzUFy6H_UUp5eTPjWmS6T1FB2JJuFq_DU/edit?usp=sharing">Best Time to Trade</a>  
