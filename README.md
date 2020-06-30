@@ -15,7 +15,7 @@
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Ebooks/technical_analysis_ebooks.md">EBooks to learn trading.</a> 
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading/syllabus_technical_analysis.md">Syllabus for Technical Analysis</a>
 ## My Online Presence 
-![public space](https://github.com/SanjeevStephan/Linux/blob/master/102-Kali-Linux-on-Window/figlet-images/figlet-univers-sanjeev-stephan.png)
+![public space](https://github.com/SanjeevStephan/Figlets/blob/master/images/figlet-univers-sanjeev-stephan.png)
 ### Follow Us On
 * <a href="https://www.facebook.com/mrsanjevstephan">Facebook</a>
 * <a href="https://github.com/SanjeevStephan">GitHub</a>
