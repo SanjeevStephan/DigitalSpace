@@ -1,4 +1,4 @@
-![public space](https://github.com/SanjeevStephan/Linux/blob/master/102-Kali-Linux-on-Window/figlet-images/figlet-univers-digital-space.png)
+![public space](https://github.com/SanjeevStephan/Figlets/blob/master/images/figlet-univers-digital-space.png)
 
 # Popular
 ### A-Z
