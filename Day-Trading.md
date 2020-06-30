@@ -36,13 +36,14 @@
 * <a href="https://www.youtube.com/channel/UCDHtuWu3DPZTh5qslLgZfKQ">Stock Market Hacks</a>
 * <a href="https://www.youtube.com/channel/UCwAR5SElzS5RkZxVGvEnr0Q">Tech & Finance</a>
 * <a href="https://www.youtube.com/channel/UC3tqH99vMHIuUYIsYY5yIcg">Pravin Khetan</a>
-
+* <a href="https://www.youtube.com/channel/UCnKPQUoCRb1Vu-qWwWituGQ">V.P Financicals</a>
+* <a href="https://www.youtube.com/channel/UCqaowHxL5wKpCor5R7edvHQ">Jaano Aur Seekho</a>
 ### Language : English
-
 * <a href="https://www.youtube.com/channel/UC9qrrcSPGThjS_YfuX_RGag">Tradeciety</a>
-* <a href="https://www.youtube.com/user/PATsTrading/videos">PATsTrading</a>
 * <a href="https://www.youtube.com/channel/UCtQSrl7U9c0T88k1GdhV04A">The Duomo Initiative - Trading & Investing</a>
-* <a href="https://www.youtube.com/channel/UCtQSrl7U9c0T88k1GdhV04A">Tradingsim</a>
+* <a href="https://www.youtube.com/channel/UCgY_eHY4NCTcRnU6CCZXWng">Trading Rush</a>
+* <a href="https://www.youtube.com/user/PATsTrading/videos">PATsTrading</a>
+* <a href="https://www.youtube.com/channel/UC32oVb-nfyRBNlWzUw3dC5Q">Wysetrade</a>
 * <a href="https://www.youtube.com/channel/UCtQSrl7U9c0T88k1GdhV04A">The Madras Trader</a>
 # Top Traders to Follow 
 
@@ -53,25 +54,26 @@
 * <a href="">Twitter</a>
 ## Ricky Gutierrez
 * <a href="https://www.youtube.com/channel/UCtlAFoYl2aWb6pMiHCctQHA">Ricky Gutierrez</a>
-* <a href="">Website</a>
-* <a href="">Facebook</a>
-* <a href="">Twitter</a>
+* <a href="https://learnplanprofit.net/welcomepage">Website</a>
+* <a href="https://www.facebook.com/Techbudsolution/?eid=ARDgKx-oFwh7ZHD9nRHJoFtelxjilQ6BmHkO1V20etrnChcNuG4mJD5YQ1g7GK-2a1k5EfwOiRPQkEgM">Facebook</a>
+* <a href="https://twitter.com/techbudsolution">Twitter</a>
 ## Steven Dux
 * <a href="https://www.youtube.com/channel/UCQO8KW89UmUxltx8pQPrDRQ">Steven Dux</a>
-* <a href="">Website</a>
-* <a href="">Facebook</a>
-* <a href="">Twitter</a>
+* <a href="https://www.stevenduxi.com/freedom-challenge/">Website</a>
+* <a href="https://twitter.com/Steven1_994?">Twitter</a>
 ## Rayner Teo
 * <a href="https://www.youtube.com/channel/UCFSn-h8wTnhpKJMteN76Abg">Youtube</a>
-* <a href="">Website</a>
-* <a href="">Facebook</a>
-* <a href="">Twitter</a>
+* <a href="https://www.tradingwithrayner.com/">Website</a>
+* <a href="https://telegram.me/tradingwithrayner">Telegram</a>
 ## Hunbled Trader
-* <a href="https://www.youtube.com/channel/UCFSn-h8wTnhpKJMteN76Abg">Youtube</a>
-* <a href="">Website</a>
-* <a href="">Facebook</a>
-* <a href="">Twitter</a>
-* <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">More Detailed Informations</a>
+* <a href="https://www.youtube.com/channel/UCcIvNGMBSQWwo1v3n-ZRBCw">Youtube</a>
+* <a href="https://humbledtrader.com/discord-room">Website</a>
+* <a href="https://twitter.com/HumbledTrader18">Twitter</a>
+## Stock Market Hacks
+* <a href="https://www.youtube.com/channel/UCDHtuWu3DPZTh5qslLgZfKQ/about">Youtube</a>
+* <a href="https://telegram.me/StockMarketHacks">Telegram</a>
+## Want More!
+* <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">Here is More Detailed Informations</a>
 # My Google Drive Links  
     This is not a recommendation.Please Do your Own Research First before applying any of the below suggestions.
     This is just what works for me.And I am happy to share with you.Again this is not a recommendation.Thanks
