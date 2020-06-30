@@ -45,7 +45,9 @@
 * <a href=""></a>
 * <a href=""></a>
 * <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">More Detailed Informations</a>
-# My Google Drive Links | Use it Wisely
+# My Google Drive Links  
+    This is not a recommendation.Please Do your Own Research First before applying any of the below suggestions.
+    This is just what works for me.And I am happy to share with you.Again this is not a recommendation.Thanks
 ### Getting Started with Trading
 * <a href="https://docs.google.com/document/d/163hkjHHyAXQzUFy6H_UUp5eTPjWmS6T1FB2JJuFq_DU/edit?usp=sharing">Best Time to Trade</a>  
 * <a href="https://docs.google.com/document/d/1kc2bUseHM10C9Mx2Z-gHmP17j92VUsXtKS6FPRDAiR0/edit?usp=sharing">Rules for Stock Selection</a>
