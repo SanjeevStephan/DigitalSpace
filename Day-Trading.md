@@ -31,19 +31,46 @@
 * <a href=""></a>
 
 # Top Youtube Channels
-* <a href="https://www.youtube.com/channel/UC9qrrcSPGThjS_YfuX_RGag">Tradeciety</a>
-* <a href="https://www.youtube.com/user/PATsTrading/videos">PATsTrading</a>
-* <a href="https://www.youtube.com/channel/UCFSn-h8wTnhpKJMteN76Abg">Rayner Teo</a>
+### Language : Hindi
+* <a href="https://www.youtube.com/channel/UCxFtEfP4kMgUjQ98O_ycBMw">Technical Analysis in Hindi</a>
 * <a href="https://www.youtube.com/channel/UCDHtuWu3DPZTh5qslLgZfKQ">Stock Market Hacks</a>
 * <a href="https://www.youtube.com/channel/UCwAR5SElzS5RkZxVGvEnr0Q">Tech & Finance</a>
-* <a href="https://www.youtube.com/channel/UCtQSrl7U9c0T88k1GdhV04A">Tradingsim</a>
-## Trading Mentors
-* <a href="https://www.youtube.com/channel/UCtlAFoYl2aWb6pMiHCctQHA">Ricky Gutierrez</a>
-* <a href="https://www.youtube.com/channel/UCoSG43KFjTe0trsteSQ46Ng">Timothy Sykes</a>
-* <a href="https://www.youtube.com/channel/UCQO8KW89UmUxltx8pQPrDRQ">Steven Dux</a>
 * <a href="https://www.youtube.com/channel/UC3tqH99vMHIuUYIsYY5yIcg">Pravin Khetan</a>
-* <a href=""></a>
-* <a href=""></a>
+
+### Language : English
+
+* <a href="https://www.youtube.com/channel/UC9qrrcSPGThjS_YfuX_RGag">Tradeciety</a>
+* <a href="https://www.youtube.com/user/PATsTrading/videos">PATsTrading</a>
+* <a href="https://www.youtube.com/channel/UCtQSrl7U9c0T88k1GdhV04A">The Duomo Initiative - Trading & Investing</a>
+* <a href="https://www.youtube.com/channel/UCtQSrl7U9c0T88k1GdhV04A">Tradingsim</a>
+* <a href="https://www.youtube.com/channel/UCtQSrl7U9c0T88k1GdhV04A">The Madras Trader</a>
+# Top Traders to Follow 
+
+## Timothy Sykes
+* <a href="https://www.youtube.com/channel/UCoSG43KFjTe0trsteSQ46Ng">Youtube</a>
+* <a href="">Website</a>
+* <a href="">Facebook</a>
+* <a href="">Twitter</a>
+## Ricky Gutierrez
+* <a href="https://www.youtube.com/channel/UCtlAFoYl2aWb6pMiHCctQHA">Ricky Gutierrez</a>
+* <a href="">Website</a>
+* <a href="">Facebook</a>
+* <a href="">Twitter</a>
+## Steven Dux
+* <a href="https://www.youtube.com/channel/UCQO8KW89UmUxltx8pQPrDRQ">Steven Dux</a>
+* <a href="">Website</a>
+* <a href="">Facebook</a>
+* <a href="">Twitter</a>
+## Rayner Teo
+* <a href="https://www.youtube.com/channel/UCFSn-h8wTnhpKJMteN76Abg">Youtube</a>
+* <a href="">Website</a>
+* <a href="">Facebook</a>
+* <a href="">Twitter</a>
+## Hunbled Trader
+* <a href="https://www.youtube.com/channel/UCFSn-h8wTnhpKJMteN76Abg">Youtube</a>
+* <a href="">Website</a>
+* <a href="">Facebook</a>
+* <a href="">Twitter</a>
 * <a href="https://docs.google.com/spreadsheets/d/1WNPB7SAbdlT-_fgW4uHkpycWEvDjDZTESRWKDZAr0W4/edit?usp=sharing">More Detailed Informations</a>
 # My Google Drive Links  
     This is not a recommendation.Please Do your Own Research First before applying any of the below suggestions.
