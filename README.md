@@ -11,7 +11,7 @@
 ### Top Links
 * <a href="https://drive.google.com/drive/folders/1N1FAECgBaZPfJQVmIdMZ32Sc03BgLIdW?usp=sharing">1000+ Free EBooks Collections</a>
 # Trading
-* <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading.md">Getting Started with Trading Stocks</a>  
+* <a href="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Day-Trading/README.md">Getting Started with Trading Stocks</a>  
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Ebooks/technical_analysis_ebooks.md">EBooks to learn trading.</a> 
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading/syllabus_technical_analysis.md">Syllabus for Technical Analysis</a>
 ## My Online Presence 
