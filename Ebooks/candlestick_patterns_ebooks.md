@@ -47,9 +47,9 @@
 <a href="">
 <img src="https://images-na.ssl-images-amazon.com/images/I/519TfhN43mL._SX291_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
 
-<!-- 12 Simple Technical Indicators that Really Work  -->
+<!-- Trade Chart Patterns Like the Pros -->
 <a href="">
-<img src=""  width="120px" height="150px"/> </a>
+<img src="https://images-na.ssl-images-amazon.com/images/I/419bb73mG-L._SX258_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
 
 <!-- Moving Averages 101  -->
 <a href="">
