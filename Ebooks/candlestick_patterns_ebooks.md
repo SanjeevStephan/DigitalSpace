@@ -49,7 +49,7 @@
 
 <!-- Trade Chart Patterns Like the Pros -->
 <a href="">
-<img src="https://images-na.ssl-images-amazon.com/images/I/419bb73mG-L._SX258_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
+<img src="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/covers/Candlestick%20Trading%20For%20Maximum%20Profit.png"  width="120px" height="150px"/> </a>
 
 <!-- The Candlestick Trading For Maximum Profits  -->
 <a href="">
