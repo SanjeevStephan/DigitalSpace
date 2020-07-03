@@ -39,6 +39,10 @@
 <a href="">
 <img src="https://images-na.ssl-images-amazon.com/images/I/41KWFMMRWQL._SX311_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
 
+<!-- Technical Analysis: The Complete Resource for Financial Market Technicians -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/721/721efc6ce6c874f21b264ab43ea48800.jpg"  width="120px" height="150px"/> </a>
+
 <!-- Support and Resistance Simplified -->
 <a href="https://drive.google.com/file/d/1AxSLZM-WUcquCfiMAa4dfvAxRqsZj_PS/view?usp=sharing">
 <img src="https://images-na.ssl-images-amazon.com/images/I/51E2QAHJZRL._SX317_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
