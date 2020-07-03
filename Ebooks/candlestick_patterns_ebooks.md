@@ -63,9 +63,17 @@
 <a href="">
 <img src="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/covers/INTRODUCTION%20TO%20CANDLESTICK%20PATTERNS.PNG"  width="120px" height="150px"/> </a>
 
-<!-- Encyclopedia Of Trading Strategies -->
+<!-- Candlesticks, Fibonacci, and Chart Pattern - Trading Software -->
 <a href="">
-<img src=""  width="120px" height="150px"/> </a>
+<img src="https://s.pdfdrive.com/assets/thumbs/799/799a7141442fb9d60a3af17d17d39545.jpg"  width="120px" height="150px"/> </a>
+
+<!-- Chart Your Way To Profits: The Online Trader's Guide to Technical Analysis -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/655/655d0952bed5cbf67ce204d1e4a86392.jpg"  width="120px" height="150px"/> </a>
+
+<!-- The Visual Investor: How to Spot Market Trends (Wiley Trading) -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/1c1/1c1c711631ccfa3b587e5bb423110e31.jpg"  width="120px" height="150px"/> </a>
 
 
 # Ebooks 
