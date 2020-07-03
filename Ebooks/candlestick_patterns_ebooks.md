@@ -35,6 +35,22 @@
 <a href="">
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025859l/18120678.jpg"  width="120px" height="150px"/> </a>
 
+<!-- chartingmadeeasy  -->
+<a href="">
+<img src="https://sanet.pics/storage-4/0218/ZO1BLKVYSYXGIziYt5JH3ZkEYmltfVAf.jpg"  width="120px" height="150px"/> </a>
+
+<!-- The_7_Chart_Patterns  -->
+<a href="">
+<img src="https://images-na.ssl-images-amazon.com/images/I/519TfhN43mL._SX291_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
+
+<!-- The Secret Code of Japanese Candlesticks PDFDrive.com -->
+<a href="">
+<img src="https://image.slidesharecdn.com/88478465-the-secret-code-of-japanese-candlesticks-140216061601-phpapp01/95/thesecretcodeofjapanesecandlesticks-1-638.jpg?cb=1392532116"  width="120px" height="150px"/> </a>
+
+<!-- Trade Chart Patterns Like the Pros -->
+<a href="">
+<img src="https://images-na.ssl-images-amazon.com/images/I/419bb73mG-L._SX258_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
+
 
 
 <!-- The Candlestick Trading For Maximum Profits  -->
