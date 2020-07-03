@@ -35,33 +35,20 @@
 <a href="">
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398025859l/18120678.jpg"  width="120px" height="150px"/> </a>
 
-<!-- chartingmadeeasy  -->
-<a href="">
-<img src="https://sanet.pics/storage-4/0218/ZO1BLKVYSYXGIziYt5JH3ZkEYmltfVAf.jpg"  width="120px" height="150px"/> </a>
 
-<!-- The Secret Code of Japanese Candlesticks PDFDrive.com -->
-<a href="">
-<img src="https://image.slidesharecdn.com/88478465-the-secret-code-of-japanese-candlesticks-140216061601-phpapp01/95/thesecretcodeofjapanesecandlesticks-1-638.jpg?cb=1392532116"  width="120px" height="150px"/> </a>
-
-<!-- The_7_Chart_Patterns  -->
-<a href="">
-<img src="https://images-na.ssl-images-amazon.com/images/I/519TfhN43mL._SX291_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
-
-<!-- Trade Chart Patterns Like the Pros -->
-<a href="">
-<img src="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/covers/Candlestick%20Trading%20For%20Maximum%20Profit.png"  width="120px" height="150px"/> </a>
 
 <!-- The Candlestick Trading For Maximum Profits  -->
 <a href="">
-<img src=""  width="120px" height="150px"/> </a>
+<img src="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/covers/Candlestick%20Trading%20For%20Maximum%20Profit.png"  width="120px" height="150px"/> </a>
 
-<!-- The Complete Breakout Trader  -->
+<!-- INTRODUCTION TO CANDLESTICK PATTERNS  -->
 <a href="">
-<img src=""  width="120px" height="150px"/> </a>
+<img src="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/covers/INTRODUCTION%20TO%20CANDLESTICK%20PATTERNS.PNG"  width="120px" height="150px"/> </a>
 
 <!-- Encyclopedia Of Trading Strategies -->
 <a href="">
 <img src=""  width="120px" height="150px"/> </a>
+
 
 # Ebooks 
 * <a href="https://drive.google.com/file/d/1g7YRILETP8Ju6YqbwXcH7xnAc-AXeq5d/view?usp=sharing">Technical Analysis and Chart Interpretations. A Comprehensive Guide </a>
