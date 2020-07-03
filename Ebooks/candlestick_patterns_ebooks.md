@@ -1,4 +1,5 @@
 # Ebooks to Learn Candlesticks Chart Patterns | <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading.md">Home</a>
+<!------------------------------------------------------ Candlesticks Chart Patterns Reading ------------------------------------------------------->
 <!-- The_Candlestick_Trading_Bible  -->
 <a href="">
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555654955l/40886872.jpg" width="120px" height="150px"/></a>
@@ -74,6 +75,32 @@
 <!-- The Visual Investor: How to Spot Market Trends (Wiley Trading) -->
 <a href="">
 <img src="https://s.pdfdrive.com/assets/thumbs/1c1/1c1c711631ccfa3b587e5bb423110e31.jpg"  width="120px" height="150px"/> </a>
+
+<!------------------------------------------------------ Price Actions Reading ------------------------------------------------------->
+
+<!-- Technical Analysis of Gaps: Identifying Profitable Gaps for Trading -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/f94/f9412696069721e3b221afa89ad5247e.jpg"  width="120px" height="150px"/> </a>
+
+<!-- Technical Analysis Plain and Simple: Charting the Markets in Your Language (2nd Edition) -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/dd8/dd8bc980ce95516a6770935142b8bcb7.jpg"  width="120px" height="150px"/> </a>
+
+<!-- The Illustrated Guide to Technical Analysis Signals and Phrases -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/69b/69bb7d017102106771d6cda997670d37.jpg"  width="120px" height="150px"/> </a>
+
+<!-- Fibonacci Trading: How to Master the Time and Price Advantage -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/72f/72f699698a6fa17ad4d73cc74a1a2e81.jpg"  width="120px" height="150px"/> </a>
+
+<!-- Breakthrough Strategies for Predicting any Market: Charting Elliott Wave, Lucas, Fibonacci and -->
+<a href="https://www.pdfdrive.com/breakthrough-strategies-for-predicting-any-market-charting-elliott-wave-lucas-fibonacci-and-time-for-profit-e159764648.html">
+<img src="https://s.pdfdrive.com/assets/thumbs/0e6/0e605acff44b43301a0247cfb99798de.jpg"  width="120px" height="150px"/> </a>
+
+<!-- The Gifts of Imperfection: Embrace Who You Are -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/8a5/8a57e63db9422e1ebac221fe091f7505.jpg"  width="120px" height="150px"/> </a>
 
 
 # Ebooks 
