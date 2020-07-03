@@ -51,7 +51,7 @@
 <a href="">
 <img src="https://images-na.ssl-images-amazon.com/images/I/419bb73mG-L._SX258_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
 
-<!-- Moving Averages 101  -->
+<!-- The Candlestick Trading For Maximum Profits  -->
 <a href="">
 <img src=""  width="120px" height="150px"/> </a>
 
