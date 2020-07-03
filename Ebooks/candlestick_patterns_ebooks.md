@@ -51,7 +51,9 @@
 <a href="">
 <img src="https://images-na.ssl-images-amazon.com/images/I/419bb73mG-L._SX258_BO1,204,203,200_.jpg"  width="120px" height="150px"/> </a>
 
-
+<!-- Getting Started in Candlestick Charting -->
+<a href="">
+<img src="https://s.pdfdrive.com/assets/thumbs/a37/a37e43425322be739dba95102fe7e853.jpg"  width="120px" height="150px"/> </a>
 
 <!-- The Candlestick Trading For Maximum Profits  -->
 <a href="">
