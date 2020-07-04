@@ -56,13 +56,19 @@
 <a href="">
 <img src="https://s.pdfdrive.com/assets/thumbs/a37/a37e43425322be739dba95102fe7e853.jpg"  width="120px" height="150px"/> </a>
 
+<!-- how to make money trading with candlestick charts by balkrishna m sadekar  -->
+<a href="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/complete-ebook/how-to-make-money-trading-with-candlstick-charts/images/readme.md
+">
+<img src="https://m.media-amazon.com/images/I/51C-RN4+kAL.jpg"  width="120px" height="150px"/> </a>
+
 <!-- The Candlestick Trading For Maximum Profits  -->
 <a href="">
 <img src="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/covers/Candlestick%20Trading%20For%20Maximum%20Profit.png"  width="120px" height="150px"/> </a>
 
-<!-- INTRODUCTION TO CANDLESTICK PATTERNS  -->
+<!-- INTRODUCTION TO CANDLESTICK PATTERNS 
 <a href="">
 <img src="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/covers/INTRODUCTION%20TO%20CANDLESTICK%20PATTERNS.PNG"  width="120px" height="150px"/> </a>
+-->
 
 <!-- Candlesticks, Fibonacci, and Chart Pattern - Trading Software -->
 <a href="">
