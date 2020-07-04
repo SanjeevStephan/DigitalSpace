@@ -1,5 +1,3 @@
-# how-to-make-money-trading-with-candlstick-charts
-
 ![page-00](https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/complete-ebook/how-to-make-money-trading-with-candlstick-charts/images/Page-00.png)
 ![page-01](https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/complete-ebook/how-to-make-money-trading-with-candlstick-charts/images/Page-01.png)
 ![page-01](https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/complete-ebook/how-to-make-money-trading-with-candlstick-charts/images/Page-02.png)
