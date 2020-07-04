@@ -140,36 +140,36 @@
 * <a href="">Trade Chart Patterns Like the Pros </a>
     
       Author : Suri Duddella   
-* <a href=""> </a>
+* <a href="">Getting Started in Candlestick Charting </a>
     
-      Author :    
+      Author : Tina Logan   
 * <a href=""></a>
     
-      Author :    
+      Author : How to Make Money Trading with Candlestick Charts    
 * <a href=""></a>
     
-      Author :  
-* <a href=""></a>
+      Author : Balkrishna M.Sadekar  
+* <a href="">Candlestick-Trading-for-Maximum-Profits</a>
     
-      Author :   
-* <a href=""> </a>
+      Author : NetPicks.com  
+* <a href=""> Candlesticks Fibonacci and Chart Pattern Trading Tools</a>
     
-      Author :    
-* <a href=""></a>
+      Author : Robert Fischer    
+* <a href="">Chart Your Way To Profits : The Online Trader's Guide to Technical Analysis with Prophet Charts</a>
     
-      Author :    
-* <a href=""></a>
+      Author : TIM KNIGHT   
+* <a href="">The Visual Investor: How to Spot Market Trends</a>
     
-      Author :  
-* <a href=""></a>
+      Author : John J. Murphy   
+* <a href="">Technical Analysis of Gaps_ Identifying Profitable Gaps for Trading</a>
     
-      Author :   
-* <a href=""> </a>
+      Author : JULIER R.DAHLQUIST & RICHARD J .BAUER JR.  
+* <a href=""> Technical Analysis Plain and Simple Charting the Markets in Your Language </a>
     
-      Author :    
-* <a href=""></a>
+      Author : Michael N. Kahn   
+* <a href="">Fibonacci Trading_ How to Master the Time and Price Advantage</a>
     
-      Author :    
-* <a href=""></a>
+      Author : CAROLYN BORODEN    
+* <a href="">Predicting any Makets</a>
     
-      Author :  
+      Author : Jeff Greenblatt
