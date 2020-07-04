@@ -99,21 +99,77 @@
 <img src="https://s.pdfdrive.com/assets/thumbs/0e6/0e605acff44b43301a0247cfb99798de.jpg"  width="120px" height="150px"/> </a>
 
 # Ebooks 
-* <a href="https://drive.google.com/file/d/1g7YRILETP8Ju6YqbwXcH7xnAc-AXeq5d/view?usp=sharing">Technical Analysis and Chart Interpretations. A Comprehensive Guide </a>
+* <a href="">The Candlestick_Trading Bible</a>
     
-      Author : Ed Ponsi    
-* <a href="https://drive.google.com/file/d/1SOGToCDHStKrR_fmcCkWiP4OfzyAJgCB/view?usp=sharing">Technical Analysis Explained, Fifth Edition: The Successful Investor's Guide to Spotting Investment </a>
-
-      Author : Martin J. Pring
-* <a href="">The Trading Book: A Complete Solution to Mastering Technical Systems and Trading Psychology </a>
+      Author :  Homma Munehisa ( The father of candlestick chart patterns.)    
+* <a href="">Japanese Candlestick Charting Techniques </a>
     
-      Author : Anne-Marie Baiynd
-* <a href="https://drive.google.com/file/d/1AaylYvh3T7lbZxlgZ7y1I3Z2pA0-EclM/view?usp=sharing">Technical Analysis Of The Financial Markets</a>
+      Author : Steve Nison   
+* <a href="">Getting Started In Chart Patterns</a>
     
-      Author :  John J Murphy      
-* <a href="https://drive.google.com/file/d/1eXi1j0aD6NRbfDwrRubX52Ds8kDtielx/view?usp=sharing">The Handbook of Technical Analysis + Test Bank_ The Practitioner's Comprehensive Guide to Technical Analysis </a>
+      Author : Thomas N. Bulkowski 
+* <a href="">Encyclopedia of Chart Patterns</a>
+    
+      Author : Thomas N. Bulkowski   
+* <a href="">Candlestick Charts : An Introduction to Using Candlestick</a>
+    
+      Author : Clive Lambert   
+* <a href="">Candlestick Charting For Dummies </a>
+    
+      Author : Russell Rhoads   
+* <a href="">Candlestick Charting Explained</a>
+    
+      Author : Gregory-Morris   
 
-      Author : Mark Andrew Lim 
+* <a href="">Candlestick Charting Explained Workbook</a>
+    
+      Author : Gregory-Morris    
+* <a href="">The power of Japanese candlestick charts : Aadvanced filtering techniques for trading stocks, futures and Forex </a>
+    
+      Author : Fred K.H. Tam   
+* <a href="">Charting made easy</a>
+    
+      Author : John J. Murphy   
+* <a href="">The 7 Chart_Patterns that Consistently Make Money</a>
+    
+      Author : Ed Downs   
+* <a href="">The Secret Code of Japanese Candlesticks</a>
+    
+      Author : Felipe Tudela   
 
-
-
+* <a href="">Trade Chart Patterns Like the Pros </a>
+    
+      Author : Suri Duddella   
+* <a href=""> </a>
+    
+      Author :    
+* <a href=""></a>
+    
+      Author :    
+* <a href=""></a>
+    
+      Author :  
+* <a href=""></a>
+    
+      Author :   
+* <a href=""> </a>
+    
+      Author :    
+* <a href=""></a>
+    
+      Author :    
+* <a href=""></a>
+    
+      Author :  
+* <a href=""></a>
+    
+      Author :   
+* <a href=""> </a>
+    
+      Author :    
+* <a href=""></a>
+    
+      Author :    
+* <a href=""></a>
+    
+      Author :  
