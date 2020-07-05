@@ -2,7 +2,7 @@
 ## Top Links to consider 
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading/syllabus_technical_analysis.md">Syllabus for Technical Analysis</a>
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Ebooks/technical_analysis_ebooks.md">Top Ebooks on Technical Analysis</a>
-* <a href=""></a>
+* <a href="https://github.com/SanjeevStephan/DigitalSpace/blob/master/Ebooks/candlestick_patterns_ebooks.md">Top Ebooks on Candlestick Chart Patterns</a>
 * <a href=""></a>
 
 
