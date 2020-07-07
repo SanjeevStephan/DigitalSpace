@@ -16,8 +16,7 @@
 * <a href="https://github.com/SanjeevStephan/MySpace-Public/blob/master/Day-Trading/syllabus_technical_analysis.md">Syllabus for Technical Analysis</a>
 ## My Online Presence 
 ![public space](https://github.com/SanjeevStephan/Figlets/blob/master/images/figlet-univers-sanjeev-stephan.png)
-### Visit 
-<a href="https://sites.google.com/view/sanjeevstephan/home">My Site</a>
+### <a href="https://sites.google.com/view/sanjeevstephan/home">My Portfolio</a>
 
 ### Follow Us On
 * <a href="https://www.facebook.com/mrsanjevstephan">Facebook</a>
