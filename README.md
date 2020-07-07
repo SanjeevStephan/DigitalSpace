@@ -25,7 +25,7 @@
 * <a href="www.pinterest.com/SanjeevStephan">Pinterest</a>
 * <a href="https://twitter.com/sanjeevstephan">Twitter</a>
 * <a href="http://telegram.me/mrsanjeevstephan">Telegram</a>
-* <a href="https://www.tradingview.com/u/SanjeevStephan/">TradingView</ a>
+* <a href="https://www.tradingview.com/u/SanjeevStephan/">TradingView</a>
 * <a href="https://api.whatsapp.com/send?phone=916201432196">WhatsApp</a>
 
 
