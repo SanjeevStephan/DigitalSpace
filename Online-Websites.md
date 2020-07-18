@@ -43,9 +43,11 @@ AES encryption is a web tool to encrypt and decrypt text using AES encryption al
 # Top Newspapers | E-Paper
 <a href="https://epaper.prabhatkhabar.com/">
 <img src="https://lh3.googleusercontent.com/C2OI4jD8AdEcbbDZGDKsUbcrbtmmhkAgdjVLs11E-JTkNmR77y0WSDQmQ6PbtFEePa6tMw=s162"/></a>
+
 >Hindi News Portal to Eastern India. 
 <br/>
 <a href="https://epaper.hindustantimes.com/Home/ArticleView">Hindustan Times<a/>
-<img src="https://www.marketing91.com/wp-content/uploads/2018/01/SWOT-Analysis-of-Hindustan-Times.jpg" width="250px" height="120px"/></a>      
+<img src="https://www.marketing91.com/wp-content/uploads/2018/01/SWOT-Analysis-of-Hindustan-Times.jpg" width="250px" height="120px"/></a>   
+
 >Nation's English News Paper.
 
