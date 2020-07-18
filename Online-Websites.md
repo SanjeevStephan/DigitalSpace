@@ -41,11 +41,12 @@ Key sizes: AES-128 (128 bit), AES-192 (192 bit) and AES-256 (256 bit). <br/>
 AES encryption is a web tool to encrypt and decrypt text using AES encryption algorithm. The tool is free, without registration
   
 # Top Newspapers | E-Paper
-* <a href="https://epaper.prabhatkhabar.com/">
+<a href="https://epaper.prabhatkhabar.com/">
 <img src="https://lh3.googleusercontent.com/C2OI4jD8AdEcbbDZGDKsUbcrbtmmhkAgdjVLs11E-JTkNmR77y0WSDQmQ6PbtFEePa6tMw=s162"/></a>
 >Hindi News Portal to Eastern India.
 
-* <a href="https://epaper.hindustantimes.com/Home/ArticleView">Hindustan Times<a/>
+<a href="https://epaper.hindustantimes.com/Home/ArticleView">Hindustan Times<a/>
+<img src="https://www.marketing91.com/wp-content/uploads/2018/01/SWOT-Analysis-of-Hindustan-Times.jpg" width="120px" height="120px"/></a>      
 
 >Nation's English News Paper.
 
