@@ -7,8 +7,9 @@ It contains all the links to the Softwares that i prefer from day-to-day basis.
 * <a href="http://atomurl.net/barcode/">Online Barcode Generator </a>
 
       http://atomurl.net/barcode/
-* <a href="http://atomurl.net/myip/ ">IP Lookup </a>
+* <a href="http://atomurl.net/myip/">IP Lookup </a>
 
+      http://atomurl.net/myip/ 
 * <a href="https://ifsc.bankifsccode.com/">IFSC Code Lookup</a>
 
       https://ifsc.bankifsccode.com
@@ -38,4 +39,13 @@ last six characters represent branch
 >AES encryption has three different block ciphers: <br/>
 Key sizes: AES-128 (128 bit), AES-192 (192 bit) and AES-256 (256 bit). <br/>
 AES encryption is a web tool to encrypt and decrypt text using AES encryption algorithm. The tool is free, without registration
-     
+  
+# Top Newspapers | E-Paper
+* <a href="https://epaper.prabhatkhabar.com/">Prabhat Khabar</a>
+
+>Hindi News Portal to Eastern India.
+
+* <a href="https://epaper.hindustantimes.com/Home/ArticleView">Hindustan Times<a/>
+
+>Nation's English News Paper.
+
