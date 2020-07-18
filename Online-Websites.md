@@ -1,7 +1,6 @@
 # Online Services URLs
 It contains all the links to the Softwares that i prefer from day-to-day basis.
 
-
 * <a href="http://atomurl.net/qrcode/">Online QR Code Generator</a>  <br/>
 * <a href="http://atomurl.net/barcode/">Online Barcode Generator </a>
 * <a href="http://atomurl.net/myip/ ">IP Lookup </a>
@@ -24,6 +23,6 @@ last six characters represent branch
 >Free Online Photo Editor ( Edit and convert image files online from your browser.
 
 * <a href="https://aesencryption.net/">AES Encryption</a>
->AES encryption has three different block ciphers: AES-128 (128 bit), AES-192 (192 bit) and AES-256 (256 bit). 
+>AES encryption has three different block ciphers: AES-128 (128 bit), AES-192 (192 bit) and AES-256 (256 bit). <br/>
 AES encryption is a web tool to encrypt and decrypt text using AES encryption algorithm. The tool is free, without registration
      
