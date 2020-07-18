@@ -2,9 +2,16 @@
 It contains all the links to the Softwares that i prefer from day-to-day basis.
 
 * <a href="http://atomurl.net/qrcode/">Online QR Code Generator</a>  <br/>
+
+      http://atomurl.net/qrcode/
 * <a href="http://atomurl.net/barcode/">Online Barcode Generator </a>
+
+      http://atomurl.net/barcode/
 * <a href="http://atomurl.net/myip/ ">IP Lookup </a>
+
 * <a href="https://ifsc.bankifsccode.com/">IFSC Code Lookup</a>
+
+      https://ifsc.bankifsccode.com
 
 >Indian Financial System Code (IFSC). 
 It is used for electronic payment applications like Real Time Gross Settlement (RTGS), 
@@ -16,13 +23,18 @@ First four characters represent bank, fifth character is default "0" left for fu
 last six characters represent branch
       
 * <a href="https://www.bankmicrcode.com/">Bank MICR Code Lookup</a>
+
+      https://www.bankmicrcode.com/
        
 >MICR Code: Magnetic Ink Character Recognition as printed on cheque book to facilitate the processing of cheques
 * <a href="https://www.img2go.com/">img2go </a>
 
+      https://www.img2go.com/
 >Free Online Photo Editor ( Edit and convert image files online from your browser.
 
 * <a href="https://aesencryption.net/">AES Encryption</a>
+      
+      https://aesencryption.net/
 >AES encryption has three different block ciphers: <br/>
 Key sizes: AES-128 (128 bit), AES-192 (192 bit) and AES-256 (256 bit). <br/>
 AES encryption is a web tool to encrypt and decrypt text using AES encryption algorithm. The tool is free, without registration
