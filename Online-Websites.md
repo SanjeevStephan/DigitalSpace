@@ -14,7 +14,7 @@ an interbank electronic instant mobile money transfer service (IMPS), and
 Centralised Funds Management System (CFMS) developed by Reserve Bank of India (RBI). 
 Code has eleven characters "Alpha Numeric" in nature. 
 First four characters represent bank, fifth character is default "0" left for future use and
->last six characters represent branch
+last six characters represent branch
       
 * <a href="https://www.bankmicrcode.com/">Bank MICR Code Lookup</a>
        
