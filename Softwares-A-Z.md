@@ -9,6 +9,10 @@
 * <a href="https://get.adobe.com/reader/enterprise/">Adobe Reader</a>
      
       It's the only PDF viewer that can open and interact with all types of PDF content, including forms and multimedia
+* <a href="https://www.softwares2u.com/download-adobe-audition-cc-2018-full/">Adobe Audition</a>
+
+> Adobe Audition Pre Activated Free Download a professional audio notebook. Create, blend, and layout sound results with the enterprise’s satisfactory virtual audio modifying software. Audition is a complete toolset that consists of the multitrack, waveform, and spectral display for developing, mixing, enhancing, and restoring audio content.
+
 * <a href="https://developer.android.com/studio">Android Studio IDE</a>
 * <a href="https://www.arduino.cc/en/Main/Software">Arduino IDE </a>
 * <a href="https://audiorelay.net/">AudioRelay</a>
